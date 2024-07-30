@@ -507,4 +507,3 @@ class GUI:
         plt.savefig("logScatter.png")
 
 LOADING()
-print("hello world")
